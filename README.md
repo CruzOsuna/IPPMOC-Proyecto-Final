@@ -78,13 +78,13 @@ Sigue las instrucciones para seleccionar una métrica:
   
 ## 2. Generate Spatial Maps 
 
-# Shannon Index
+- Shannon Index
 python shannon_tif.py
 
-# Simpson Index
+- Simpson Index
 python simpson_tif.py
 
-# Ripley's K
+- Ripley's K
 python ripley_k_tif.py
 
 
