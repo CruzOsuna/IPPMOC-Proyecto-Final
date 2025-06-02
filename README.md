@@ -76,7 +76,7 @@ Sigue las instrucciones para seleccionar una métrica:
 - Simpson Index
 
   
-## 2. Genera los mapas espaciales 
+## 2. Generate Spatial Maps 
 
 # Shannon Index
 python shannon_tif.py
@@ -88,14 +88,14 @@ python simpson_tif.py
 python ripley_k_tif.py
 
 
-Parámetros clave de configuración en los scripts:
+Key Configuration Parameters in the Scripts:
 
-| Parámetro       | Descripción                          | Valor por defecto   |
+| Parameter       | Description                          | Default Value       |
 |-----------------|--------------------------------------|---------------------|
-| RADIUS_STEP     | Tamaño del paso radial               | 50 μm               |
-| NUM_POINTS      | Número de puntos de muestreo         | 100,000             |
-| STEP_SIZE       | Incremento radial                    | 10 μm               |
-| MAX_STEPS       | Número máximo de pasos radiales      | 100                 |
-| X_RES, Y_RES    | Resolución espacial                  | 1 μm/píxel          |
+| RADIUS_STEP     | Radial step size                     | 50 μm               |
+| NUM_POINTS      | Number of sampling points            | 100,000             |
+| STEP_SIZE       | Radial increment                     | 10 μm               |
+| MAX_STEPS       | Maximum number of radial steps       | 100                 |
+| X_RES, Y_RES    | Spatial resolution                   | 1 μm/pixel          |
 
 
