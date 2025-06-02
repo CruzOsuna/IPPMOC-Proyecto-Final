@@ -78,14 +78,14 @@ Sigue las instrucciones para seleccionar una métrica:
   
 ## 2. Generate Spatial Maps 
 
-- Shannon Index
-python shannon_tif.py
+- Shannon Index: 
+`python shannon_tif.py`
 
-- Simpson Index
-python simpson_tif.py
+- Simpson Index:
+`python simpson_tif.py`
 
-- Ripley's K
-python ripley_k_tif.py
+- Ripley's K:
+`python ripley_k_tif.py`
 
 
 Key Configuration Parameters in the Scripts:
