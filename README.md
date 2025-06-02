@@ -47,17 +47,17 @@ cd spatial-omics-analysis
 ```
 
 Dependencies:
--Python 3.9+
--numpy
--pandas
--tifffile
--scipy
--shapely
--scikit-image
--matplotlib
--geopandas
--numba
--seaborn
+- Python 3.9+
+- numpy
+- pandas
+- tifffile
+- scipy
+- shapely
+- scikit-image
+- matplotlib
+- geopandas
+- numba
+- seaborn
 
 
 # Usage
